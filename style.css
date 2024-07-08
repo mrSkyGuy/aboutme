@@ -5,6 +5,10 @@
     font-family: "Montserrat", Arial, Helvetica, sans-serif;
 }
 
+code {
+    font-family: 'Courier New', Courier, monospace;
+}
+
 a {
     text-decoration: none;
     color: #222;
